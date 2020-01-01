@@ -1,0 +1,26 @@
+= Nome da disciplina
+:doctype: book
+:lang: pt-BR
+:ascii-ids:
+:gitrepo: https://github.com/xxx/yyy
+
+include::shared-prefacio.adoc[]
+
+////
+= Nome da Parte =
+////
+
+include::cap1.adoc[]
+include::feedback.adoc[]
+include::cap2.adoc[]
+include::feedback.adoc[]
+include::cap3.adoc[]
+include::feedback.adoc[]
+
+include::glossario.adoc[]
+include::respostas.adoc[]
+
+////
+Sempre termine os arquivos com uma linha em branco.
+////
+
