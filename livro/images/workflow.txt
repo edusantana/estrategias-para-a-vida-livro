@@ -1,0 +1,25 @@
+# Ajuda da Sintaxe do arquivo:
+#
+# http://bloodgate.com/perl/graph/manual/overview.html
+#
+# rake work
+#
+
+(
+  Rascunho WIP
+  [Cria Rascunho] -> [Build Rascunho] -> [Avalia Rascunho]
+)
+( 
+  Boneca
+  [Cria Boneca] -> [Build Boneca] -> [Avalia Boneca]
+)
+
+[Avalia Rascunho] ->  [Cria Boneca]
+
+( 
+  Publicação
+  [Publica no github]
+)
+
+
+[Cria Boneca] ->   [Publica no github]

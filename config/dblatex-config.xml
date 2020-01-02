@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ======================================================= -->
+<!-- Dblatex Configuration example for building a book       -->
+<!-- ======================================================= -->
+<config xmlns="http://dblatex.sourceforge.net/config" version="1.0">
+  <latex>
+    <backend use="xetex"/>
+  </latex>
+  <xslt>
+    <stylesheet fileref="user_param.xsl"/>
+    <stylesheet fileref="xetex_param.xsl"/>
+    <stylesheet fileref="pdf.xsl"/>
+  </xslt>
+  <options>-X -V</options>
+</config>
