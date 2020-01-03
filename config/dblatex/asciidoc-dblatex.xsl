@@ -7,7 +7,7 @@ See dblatex(1) -p option.
 
   <!-- TOC links in the titles, and in blue. -->
   <xsl:param name="latex.hyperparam">colorlinks,linkcolor=blue,pdfstartview=FitH</xsl:param>
-  <xsl:param name="doc.lot.show"></xsl:param>
+  <xsl:param name="doc.lot.show">1</xsl:param>
   <xsl:param name="term.breakline">1</xsl:param>
   <xsl:param name="doc.collab.show">0</xsl:param>
   <xsl:param name="doc.section.depth">3</xsl:param>
@@ -19,6 +19,8 @@ See dblatex(1) -p option.
   <xsl:param name="latex.babel.language">brazilian</xsl:param>
   <!-- Remover dblatex logo -->
   <xsl:param name="doc.publisher.show">0</xsl:param>
+
+  <xsl:param name="doc.layout">coverpage toc frontmatter mainmatter index </xsl:param>
 
 
 

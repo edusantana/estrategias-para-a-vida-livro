@@ -1,4 +1,12 @@
-<edition>{edition}</edition>
+<edition>1</edition>
+
+<cover>
+<mediaobject>
+<imageobject>
+<imagedata fileref="imagens/cover.png" format="PNG" depth="100%" width="100%" align="left"/>
+</imageobject>
+</mediaobject>
+</cover>
 
 <revhistory>
 
@@ -10,7 +18,7 @@
       Primeira versão do livro.
     </revremark>
   </revision>
-  
+
 </revhistory>
 
 <authorgroup>
@@ -26,4 +34,3 @@
     <othername>Santana</othername>
   <contrib>Editor</contrib>
 </othercredit>
-
