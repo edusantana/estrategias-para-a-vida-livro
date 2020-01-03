@@ -35,7 +35,7 @@ task :docbook do
   Dir.chdir SOURCE_DIR do
     sh "asciidoctor wip.adoc -b docbook5 -o livro.docbook5.xml"
     sh "dblatex -p ../config/dblatex/asciidoc-dblatex.xsl -s ../config/dblatex/asciidoc-dblatex.sty livro.docbook5.xml"
-    sh "xsltproc --xinclude http://bbcarchdev.github.io/docbook-html5/docbook-html5.xsl livro.docbook5.xml > livro.docbook5.html"
+    #sh "xsltproc --xinclude http://bbcarchdev.github.io/docbook-html5/docbook-html5.xsl livro.docbook5.xml > livro.docbook5.html"
     mv "livro.docbook5.xml", "../#{RELEASE_DIR}"
     mv "livro.docbook5.pdf", "../#{RELEASE_DIR}"
   # -D #{RELEASE_DIR}
