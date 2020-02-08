@@ -8,6 +8,7 @@ Virão pressão de todos os lados, _vai trabalhar com o que_? Principalmente par
 
 Espero que possa aprender algo com os nossos ex-alunos...
 
+image::imagens/carol-profissional.jpg[scale=15]
 
 
 [quote, Carol]
@@ -49,6 +50,7 @@ O principal aprendizado que gostaria de compartilhar é… *que deve-se ter uma 
 
 ____
 
+image::imagens/Menina_dezoito_beber_trite.jpg[scale=6]
 
 [quote, Menina dezoito]
 ____
@@ -68,6 +70,8 @@ Para superar essas dificuldades eu… *procurei me adaptar ao mercado de trabalh
 
 O principal aprendizado que gostaria de compartilhar é… *Faça tudo que tiver de fazer com perfeição, ou tudo será perda de tempo*.
 ____
+
+image::imagens/pan_profissional.jpg[scale=6]
 
 [quote, "Pan, A coisa"]
 ____
@@ -145,6 +149,8 @@ ____
 
 === Egressos
 
+image::imagens/carol-pessoal.jpg[scale=15]
+
 [quote, Carol]
 ____
 
@@ -162,8 +168,6 @@ O principal aprendizado que gostaria de compartilhar é… *importante ter amigo
 
 ____
 
-[link=https://www.flickr.com/photos/javh/5448336655]
-image::imagens/perdido.png[width="40%"]
 
 [quote, Tompero]
 ____
@@ -226,6 +230,8 @@ Para superar essas dificuldades eu… *Fiz curso e iludi*.
 
 O principal aprendizado que gostaria de compartilhar é… *Viva! INTENSAMENTE*!
 ____
+
+image::imagens/pan_pessoal.jpg[scale=6]
 
 [quote, Pan (a coisa)]
 ____
@@ -330,6 +336,8 @@ ____
 
 === Egressos
 
+image::imagens/amor-em-dobro.jpg[scale=15]
+
 [quote, Carol]
 ____
 
@@ -382,6 +390,9 @@ Para superar essas dificuldades eu… *Decidi mostrar os problemas e tentar me a
 O principal aprendizado que gostaria de compartilhar é… *Às vezes não entendemos as tamanhas preocupações de nossos responsáveis, e em alguns momentos somente nós mesmos entendemos nossas dificuldades*.
 ____
 
+
+image::imagens/Menina_dezoito_beber.jpg[scale=6]
+
 [quote, Menina dezoito]
 ____
 Nas relações familiar, enfrentei as seguintes dificuldades:
@@ -396,6 +407,8 @@ Para superar essas dificuldades eu… *Entrei em depressão*.
 
 O principal aprendizado que gostaria de compartilhar é… *Invés de ficar desesperada chorando, meta a cara, vai pra rua procurar. CERTEZA que você encontrará algo, mas nada vem fácil. E outra, sair e beber ajuda*.
 ____
+
+
 
 [quote, Cipriano]
 ____
@@ -489,6 +502,8 @@ ____
 
 === Egressos
 
+image::imagens/carol-escolar.jpg[scale=15]
+
 [quote, Carol]
 ____
 
@@ -527,6 +542,7 @@ O principal aprendizado que gostaria de compartilhar é… *Podemos superar noss
 
 ____
 
+image::imagens/m18-academico.jpg[scale=8]
 
 [quote, Menina dezoito]
 ____
@@ -541,10 +557,11 @@ O principal aprendizado que gostaria de compartilhar é… *Vou passar*.
 
 ____
 
+image::imagens/pan-academico.jpg[scale=8]
 
 [quote, Pan (a coisa)]
 ____
-Na dimensão acadêmica, enfrentei as seguintes dificuldades: *A vida acadêmica é fácil, se você superou o Ir, supera tudo amores*.
+Na dimensão acadêmica, enfrentei as seguintes dificuldades: *A vida acadêmica é fácil, se você superou o IF, supera tudo amores*.
 
 
 Eu me senti… *Excitação, frustração (descobri que não tem recuperação)*.

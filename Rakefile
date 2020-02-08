@@ -104,3 +104,5 @@ task "help:docbook" do
   sh "xdg-open /usr/share/doc/docbook-defguide/html/docbook.html"
   sh "xdg-open https://help.ubuntu.com/community/DocBook"
 end
+
+task :default => :docbook
