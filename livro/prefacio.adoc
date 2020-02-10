@@ -4,33 +4,12 @@
 
 Este livreto teve origem em um projeto de extensão _Sementes de luz: estabelecendo relacionamentos em Santa Rita_, no IFPB, campus de Santa Rita.
 
-O projeto pretendia estabelecer relacionamentos com diversos segmentos da sociedade de Santa Rita (ver <<img-sunset>>), e criar parcerias para novas oportunidades de extensão, pesquisa e estágio no território de atuação do campus.
-
-.Segmentos do projeto
-[#img-sunset]
-[caption="Figure 1: ",link=https://www.flickr.com/photos/javh/5448336655]
-image::imagens/prefacio/ponte.png[width="40%"]
-
-=== Cronograma e atividades
-
-As atividades e cronograma original (ver <<cronograma>>) sofreram alterações, mas não impediram a elaboração deste livreto.
-
-.Cronograma Original
-[#cronograma]
-[caption="Figure 1: ",link=https://www.flickr.com/photos/javh/5448336655]
-image::imagens/prefacio/tarefas.png[width="30%"]
-
+O projeto pretendia estabelecer relacionamentos com diversos segmentos da sociedade de Santa Rita, e criar parcerias para novas oportunidades de extensão, pesquisa e estágio no território de atuação do campus.
 
 
 === Equipe
 
-Este livro foi produzido graças as ações da equipe do projeto (ver <<img-equipes>>).
-
-.Organização dos membros da Equipe
-[#img-equipes]
-[caption="Figure 1: ",link=https://www.flickr.com/photos/javh/5448336655]
-image::imagens/prefacio/Equipes.png[width="40%"]
-
+Este livro foi produzido graças as ações da equipe do projeto:
 
 .Membros da equipe
 - Allana Barros de Lima
@@ -42,6 +21,8 @@ image::imagens/prefacio/Equipes.png[width="40%"]
 - Marina de Souza Alves Meireles
 - Michel Pratini Bernardo da Silva
 - Nathalia de França Pereira
+- Samuel de Melo Neves
+
 
 === Desafios e Superação
 
@@ -51,10 +32,65 @@ Além dos desafios, eles irão falar como se sentiram e a estratégia que adotar
 
 A leitura é simples e rápida, mas espero que possa semear esperança no coração do(a) leitor(a).
 
+=== Ilustrações
+
+As ilustrações foram criadas por _Allana Barros de Lima_ e _Samuel de Melo Neves_.
+
+=== Depoimentos
+
+Os depoimentos de professores de Santa Rita (município e estado) e egressos do IFPB (Santa Rita) foram coletados e registrados através de Pseudônimos escolhidos por eles:
+
+
+[cols="3*", options="header"]
+|===
+| Pseudônimo
+| Profissão
+| Idade
+
+| Menina dezoito
+|
+| 18
+
+| Pan, a coisa
+| Estudante
+| 19
+
+| Cipriano
+| Estudante
+| 18
+
+
+| @melo.ian
+| Estudante
+| 19
+
+| Fernanda Leandro
+| Professora
+| 30
+
+
+| Queen
+| Professor
+| 34
+
+
+| Amelhinha
+| Professora
+| 50
+
+| Marcos Dias
+| Professor
+| 46
+
+|===
+
+
 [quote, Eduardo de Santana Medeiros Alexandre]
 ____
 Sou grato a todos que contribuíram, direto ou indiretamente, para elaboração deste livro.
 ____
+
+
 
 
 ////
