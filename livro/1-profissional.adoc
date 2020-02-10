@@ -50,7 +50,7 @@ O principal aprendizado que gostaria de compartilhar é… *que deve-se ter uma 
 
 ____
 
-image::imagens/Menina_dezoito_beber_trite.jpg[scale=6]
+image::imagens/Menina_dezoito_beber_trite.jpg[scale=5]
 
 [quote, Menina dezoito]
 ____
@@ -336,7 +336,7 @@ ____
 
 === Egressos
 
-image::imagens/amor-em-dobro.jpg[scale=15]
+image::imagens/amor-em-dobro.jpg[scale=12]
 
 [quote, Carol]
 ____
@@ -502,7 +502,7 @@ ____
 
 === Egressos
 
-image::imagens/carol-escolar.jpg[scale=15]
+image::imagens/carol-escolar.jpg[scale=10]
 
 [quote, Carol]
 ____
